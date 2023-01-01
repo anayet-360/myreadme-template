@@ -131,7 +131,7 @@ Markdown Link syantax :
 
 ## Image syntax
 
-![profile](img/bg-1.jpg)
+![profile](img/anayet.jpg)
 
 <br>
 
